@@ -4,6 +4,8 @@ The **Process Viewer App** is a Python-based graphical user interface (GUI) appl
 
 **Attention: The program is intended only for use on the Linux operating system.**
 
+**Note: The program was developed using ChatGPT.**
+
 ## Features
 
 - **Process List**: Displays all currently running processes with their PID and name.
@@ -66,6 +68,8 @@ r
 **Process Viewer App** — это графическое приложение на Python, которое позволяет пользователям просматривать и управлять запущенными процессами на их системе. Этот инструмент предоставляет интуитивно понятный интерфейс для просмотра информации о процессах, сканирования памяти процессов на наличие строк и фильтрации этих строк по введенному пользователем тексту. Программа будет полезна разработчикам, системным администраторам и всем, кто нуждается в инспектировании содержимого памяти для конкретных процессов.
 
 **Внимание: программа предназначена только для работы в операционной системе Linux.**
+
+**Примечание: программа была разработана с использованием ChatGPT.**
 
 ## Основные функции
 
